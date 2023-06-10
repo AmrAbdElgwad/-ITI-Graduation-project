@@ -27,8 +27,6 @@ Dashboard to summarize the inter-system and connected to Facebook API to get the
 # Programs used in the project:
 Microsoft SQL Server
 
-Microsoft Visual Studio for desktop application
-
 Microsoft Power BI
 
 Tableau
