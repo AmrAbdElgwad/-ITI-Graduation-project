@@ -6,8 +6,11 @@
 # in this project
 # 1- Database :
 Contain Stored procedures that insert, update, and delete in any table in the database.
+
 Contain a Stored procedure that Generate exams for Courses by choosing a number of MCQs and T/F Questions and select this Questions randomly from the question table.
+
 Contain a Stored procedure that insert the student answers for each question in the database.
+
 Contain a stored procedure that correct each exam based on the model answer.
 
 # 2- Reports :
@@ -23,7 +26,11 @@ dashboard to summarize the inter-system and connected to Facebook API to get the
 
 # Programs used in the project:
 Microsoft SQL Server
+
 Microsoft Visual Studio for desktop application.
+
 Microsoft Power BI.
+
 SQL Server Reporting Services (SSRS).
+
 Facebook Graph API.
