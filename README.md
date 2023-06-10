@@ -22,7 +22,7 @@ Report that takes exam number and returns the Questions in it.
 Report that takes exam number and the student ID then returns the Questions in this exam with the student answers.
 
 # 3- Dashboard :
-dashboard to summarize the inter-system and connected to Facebook API to get the Student picture.
+Dashboard to summarize the inter-system and connected to Facebook API to get the Student picture.
 
 # Programs used in the project:
 Microsoft SQL Server
